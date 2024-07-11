@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cultfragrances/static/css/main.f855e6bc.css",
+    "main.js": "/cultfragrances/static/js/main.d8a7a3a4.js",
+    "static/js/453.8bfb5c31.chunk.js": "/cultfragrances/static/js/453.8bfb5c31.chunk.js",
+    "index.html": "/cultfragrances/index.html",
+    "main.f855e6bc.css.map": "/cultfragrances/static/css/main.f855e6bc.css.map",
+    "main.d8a7a3a4.js.map": "/cultfragrances/static/js/main.d8a7a3a4.js.map",
+    "453.8bfb5c31.chunk.js.map": "/cultfragrances/static/js/453.8bfb5c31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d8a7a3a4.js"
+  ]
+}
